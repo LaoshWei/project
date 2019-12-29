@@ -6,7 +6,7 @@
 - [ ] 原始碼及數據
     - 建立一個**資料夾** `src/`，將所有 Rscript、相依檔案 (例如，原始資料) 以及數據 (分析產出之資料) 置於 `src/` 內
     - `src/` 內的檔案結構請自行決定，但**其內必須有一個 `README.md`**，用以簡要說明每個 Rscript 的功用以及產出之資料的內容
-    (`src/README.md` 是原始碼的說明文件)
+    (`src/README.md` 即是原始碼的說明文件)
 - [ ] 書面報告
     - 檔名：`G<組別>_report` (例: `G01_report.pdf`)
     - 格式：`.pdf`
@@ -16,6 +16,11 @@
 - [ ] 投影片 (口頭報告組)
     - 檔名：`G<組別>_slides` (例：`G01_slides.pdf`)
     - 格式：`.pdf`、`.html` 或 `.pptx`
+
+#### 專案 Repo 範例
+
+若仍不清楚此 repo 上傳之後的樣子，可參考[此範例 repo](https://github.com/rlads2019/project-template)
+
 
 
 ## 繳交方式
