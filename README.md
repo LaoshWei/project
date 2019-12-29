@@ -20,7 +20,7 @@
 
 ## 繳交方式
 
-每組**組長**請至 <https://classroom.github.com/a/0SztequW> 接受作業邀請 (方式同個人作業繳交)。  
+每組**組長**請至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
 領取之後，組長即可透過 GitHub Desktop 將檔案 Push 至 GitHub。
 
 ### 死限
