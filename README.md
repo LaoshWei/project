@@ -1,3 +1,18 @@
+G## 在這裡寫下組名 
+======================
+
+成員：陳小明、林小明、王小明、李小明
+
+
+### 小組資訊
+
+領取作業後，請在最上方的標題寫下組別 (e.g. `G01`) 以及組名，並在標題下方寫下組員姓名。組別與組名對照，見下表：
+
+![組別與組名對照](https://img.yongfu.name/rlads2019_groupname.png)
+
+----
+
+
 小組期末專案
 =======================
 
@@ -17,7 +32,7 @@
     - 請將此檔案放在此 repo 根目錄
 - [ ] 投影片 (口頭報告組)
     - 檔名：`G<組別>_slides` (例：`G01_slides.pdf`)
-    - 格式：`.pdf`、`.html` 或 `.pptx`
+    - 格式：`.pdf` (如果是其它檔案格式，如 `.pptx`，請先轉換成 PDF 檔再放上來)
     - 請將此檔案放在此 repo 根目錄
 
 ### 專案 Repo 範例
@@ -25,11 +40,12 @@
 若對於 repo 上傳之後的樣子或如何組織 `src/` 沒有頭緒，可參考[此範例 repo](https://github.com/rlads2019/project-template)。此 repo 可做為同學組織期末專案檔案結構的模板
 
 
-
 ## 繳交方式
 
-每組**組長**請至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
-領取之後，組長即可透過 GitHub Desktop 將檔案 Push 至 GitHub。
+每組請**指派一位組員**，至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
+領取之後，請**務必**填寫此 [google 表單](https://forms.gle/MsskX28xXEfK9T2e6)。
+
+之後，小組請透過該組員將檔案上傳至 GitHub。
 
 ### 死限
 
