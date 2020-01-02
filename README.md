@@ -37,7 +37,7 @@ G## 在這裡寫下組名
 
 ### 專案 Repo 範例
 
-若仍不清楚 repo 結構的規定或如何對如何組織 `src/` 沒有頭緒，可參考[此範例 repo](https://github.com/rlads2019/project-template)。此 repo 可做為同學組織期末專案檔案結構的模板
+若仍不清楚 repo 結構的規定或對如何組織 `src/` 沒有頭緒，可參考[此範例 repo](https://github.com/rlads2019/project-template)。此 repo 可做為同學組織期末專案檔案結構的模板
 
 
 ## 繳交方式
