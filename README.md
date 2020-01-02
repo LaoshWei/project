@@ -42,8 +42,7 @@ G## 在這裡寫下組名
 
 ## 繳交方式
 
-每組請**指派一位組員**，至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
-領取之後，請**務必**填寫此 [google 表單](https://forms.gle/MsskX28xXEfK9T2e6)。
+每組請**指派一位組員**，至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。領取之後，請**務必**填寫此 [google 表單](https://forms.gle/MsskX28xXEfK9T2e6)。
 
 之後，小組請透過該組員將檔案上傳至 GitHub。
 
